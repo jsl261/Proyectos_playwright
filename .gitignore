@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Carpetas de sistema y caché
+.cache/
+*Cache*
+Cache_Data/
+*.log
+
+# Secretos y configuración personal
+.env
+postman_environment.json
